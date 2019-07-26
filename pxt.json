@@ -1,0 +1,18 @@
+{
+    "name": "LSM6DSO",
+    "version": "1.0.0",
+    "description": "ST LSM6DSO 3D accelerometer and 3D gyroscope Sensor I2C extension for makecode.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "_locales/zh/LSM6DSO-strings.json",
+        "LSM6DSO.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

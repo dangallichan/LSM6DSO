@@ -1,0 +1,15 @@
+{
+    "LSM6DSO.POWER_ONOFF.ON|block": "开",
+    "LSM6DSO.POWER_ONOFF.OFF|block": "关",
+    "LSM6DSO.Dimension.Strength|block": "强度",
+    "LSM6DSO.Dimension.X|block": "X",
+    "LSM6DSO.Dimension.Y|block": "Y",
+    "LSM6DSO.Dimension.Z|block": "Z",
+    "LSM6DSO.acceleration|block": "加速度值 (mg) %dim",
+    "LSM6DSO.angular|block": "角速度值 (mdps) %dim",
+    "LSM6DSO.get|block": "读取全部",
+    "LSM6DSO.power|block": "电源 %on",
+    "LSM6DSO.setAccelerometerRange|block": "设置加速度计范围 (g) %range",
+    "LSM6DSO.setAngularmeterRange|block": "设置角速度计范围 (dps) %range",
+    "LSM6DSO.temperature|block": "温度 %u"
+}
