@@ -81,7 +81,7 @@ namespace LSM6DSO {
         F = 1
     }
 
-    let I2C_ADDR = LSM6DSO_I2C_ADDRESS.ADDR_107
+    let I2C_ADDR = LSM6DSO_I2C_ADDRESS.ADDR_106
 
     // ODR_XL = 4 FS_XL= 0
     setreg(LSM6DSO_CTRL1_XL, 0x40)
